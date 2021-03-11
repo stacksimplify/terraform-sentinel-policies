@@ -11,7 +11,7 @@ required_tags = [
 ]
 
 allowed_acls = [
-    "public-read"
+    "public-read",
 ]
 
 bucket_tags = rule {
